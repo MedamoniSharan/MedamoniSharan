@@ -11,9 +11,8 @@
 - 🔭 Currently focused on:
   - [**Project 1**](https://github.com/yourusername/project1)
   - [**Project 2**](https://github.com/yourusername/project2)
-- 📚 Learning **Rust** and improving **English**
-- 🌐 Visit my [personal website](https://your-website.com)
-- 📫 Reach me at: your.email@example.com
+- 📚 Learning **Techologies tools** and improving **tech knowledge**
+- 📫 Reach me at: sharan.medamoni4243@gmail.com
 
 ## 🚀 Contributing Projects
 
