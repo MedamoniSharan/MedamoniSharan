@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Medamoni Sharan 👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B88C3&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%26+Rust+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated from **[Your University]**
-- 💼 Software Engineer based in **[Your Location]**
+- 🎓 Graduated from Keshav Memorial Institute of Technology(KMIT)
+- 💼 Software Engineer based in Hyderabad.
 - 🔭 Currently focused on:
   - [**Project 1**](https://github.com/yourusername/project1)
   - [**Project 2**](https://github.com/yourusername/project2)
