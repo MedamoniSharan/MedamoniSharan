@@ -71,6 +71,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MedamoniSharan/MedamoniSharan/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
+  <br>
+  <img src="https://github.com/MedamoniSharan/MedamoniSharan/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
