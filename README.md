@@ -1,7 +1,7 @@
 # Hi there, I'm Medamoni Sharan 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B88C3&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%26+Rust+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B88C3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
