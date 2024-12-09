@@ -15,7 +15,11 @@
 - 📫 Reach me at: **sharan.medamoni4243@gmail.com**
 
 
-![snake gif](https://github.com/MedamoniSharan/MedamoniSharan/raw/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 ## 📊 GitHub Statistics
@@ -28,6 +32,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedamoniSharan&theme=radical" width="100%" />
 </div>
+
 
 ## 💻 Technologies & Tools
 
@@ -60,13 +65,6 @@
 
 [![@MedamoniSharan's Holopin board](https://holopin.io/api/user/board?user=MedamoniSharan)](https://holopin.io/@MedamoniSharan)
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MedamoniSharan/MedamoniSharan/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
-  <br>
-  <img src="https://github.com/MedamoniSharan/MedamoniSharan/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
 
 ---
 
