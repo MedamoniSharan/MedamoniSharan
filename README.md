@@ -14,16 +14,9 @@
 - 📚 Learning **new technologies** and improving **technical knowledge**.
 - 📫 Reach me at: **sharan.medamoni4243@gmail.com**
 
-## 🚀 Contributing Projects
 
-<div align="center">
-  <a href="https://github.com/MedamoniSharan/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedamoniSharan&repo=project1&theme=monokai" />
-  </a>
-  <a href="https://github.com/MedamoniSharan/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MedamoniSharan&repo=project2&theme=monokai" />
-  </a>
-</div>
+![snake gif](https://github.com/MedamoniSharan/MedamoniSharan/raw/output/github-contribution-grid-snake.gif)
+
 
 ## 📊 GitHub Statistics
 
