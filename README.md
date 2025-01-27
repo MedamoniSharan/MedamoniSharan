@@ -10,7 +10,7 @@
 - 💼 Software Engineer based in Hyderabad.
 - 🔭 Currently focused on:
   - [**Project 1**](https://github.com/MedamoniSharan/project1)
-  - [**Project 2**](https://github.com/MedamoniSharan/project2)
+  - [**Project 2**]((https://github.com/MedamoniSharan/CryptoAiTrade))
 - 📚 Learning **new technologies** and improving **technical knowledge**.
 - 📫 Reach me at: **sharan.medamoni4243@gmail.com**
 
