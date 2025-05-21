@@ -9,7 +9,7 @@
 - 🎓 Graduated from **Keshav Memorial Institute of Technology (KMIT)**
 - 💼 Software Engineer based in Hyderabad.
 - 🔭 Currently focused on:
-  - [**Project 1**](https://github.com/MedamoniSharan/project1)
+  - [**ProjectBazaar**](https://projectbazaar.in/)
   - [**Project 2**](https://github.com/MedamoniSharan/CryptoAiTrade)
 - 📚 Learning **new technologies** and improving **technical knowledge**.
 - 📫 Reach me at: **sharan.medamoni4243@gmail.com || sharan.medamoni1729@gmail.com**
