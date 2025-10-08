@@ -12,7 +12,7 @@
   - [**ProjectBazaar**](https://projectbazaar.in/)
   - [**Project 2**](https://github.com/MedamoniSharan/CryptoAiTrade)
 - 📚 Learning **new technologies** and improving **technical knowledge**.
-- 📫 Reach me at: **sharan.medamoni4243@gmail.com || sharan.medamoni1729@gmail.com**
+
 
 
 <picture>
