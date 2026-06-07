@@ -33,6 +33,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedamoniSharan&theme=radical" width="100%" />
 </div>
 
+---
+
+### 📅 GitHub Contributions Calendar
+
+[![Medamoni Sharan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MedamoniSharan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 
 ## 💻 Technologies & Tools
 
