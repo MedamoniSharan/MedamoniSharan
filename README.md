@@ -9,8 +9,8 @@
 - 🎓 Graduated from **Keshav Memorial Institute of Technology (KMIT)**
 - 💼 Software Engineer based in Hyderabad.
 - 🔭 Currently focused on:
-  - [**ProjectBazaar**](https://projectbazaar.in/)
-  - [**Project 2**](https://github.com/MedamoniSharan/CryptoAiTrade)
+  - [**CodeXCareer**](https://projectbazaar.in/)
+  - [**Ai Automation**]()
 - 📚 Learning **new technologies** and improving **technical knowledge**.
 
 
