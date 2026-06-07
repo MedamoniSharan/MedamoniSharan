@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Graduated from **Keshav Memorial Institute of Technology (KMIT)**
-- 💼 Software Engineer based in Hyderabad.
+- 💼 Software Engineer based in Candescent , Hyderabad.
 - 🔭 Currently focused on:
   - [**CodeXCareer**](https://projectbazaar.in/)
   - [**Ai Automation**]()
